@@ -1,3 +1,6 @@
+#Using imblearn learn toolbox : Lemaître, Guillaume, Fernando Nogueira, and Christos K. Aridas."Imbalanced-learn: A python toolbox to tackle the curse of imbalanced
+#datasets in machine learning." The Journal of Machine Learning Research 18.1 (2017): 559-563.
+
 import csv
 
 import pandas as pd
